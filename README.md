@@ -59,9 +59,19 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
 ### 🔗 Contact Me
 
 <p align="center">
-  <a href="https://linktr.ee/gmferratti" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn.simpleicons.org/linktree/06C755" alt="Linktree" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="font-size: 16px; margin-left: 8px; vertical-align: middle;"> All my contacts in this linktree.
+  <a href="mailto:gmferratti@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30" height="30"/>
   </a>
-</p>
+  &nbsp;&nbsp;
+  <a href="https://web.telegram.org/k/#@gmferratti" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/telegram/0088CC" alt="Telegram" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gmferratti/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+
+
+
+
 
