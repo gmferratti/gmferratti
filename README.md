@@ -1,5 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gustavo+Ferratti;A+passionate+ML+Engineer;Focusing+on+MLOps+Solutions" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gustavo+Ferratti;A+passionate+ML+Engineer;Focusing+on+MLOps+Solutions" 
+         alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -53,6 +56,9 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
 ---
 
 ### 📝 My Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
