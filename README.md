@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Machine Learning Engineer and Academic Researcher from Brazil, focused on building, scaling, and automating the lifecycle of AI models.  
+I am a Machine Learning Operations Engineer and Academic Researcher from Brazil, focused on building, scaling, and automating the lifecycle of AI models.  
 My goal is to design and implement robust MLOps infrastructures that ensure performance, security, and efficiency for innovative solutions.
 
 <p align="left">
@@ -39,9 +39,16 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+  </a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
   </a>
+  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="40" height="40"/>
+  </a>
+
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/pandas/00BFFF" alt="Pandas" width="40" height="40"/>
   </a>
@@ -49,6 +56,8 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
     <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="40" height="40"/>
   </a>
 </p>
+
+
 
 - 💬 **Expertise:** Feel free to ask me about **Python, PySpark, Azure, and Databricks**.  
 - 🌱 **Currently Learning:** Expanding my knowledge in **Shell, AWS, Docker, and Terraform** for infrastructure automation.
