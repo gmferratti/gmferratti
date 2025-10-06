@@ -67,11 +67,11 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
 ### 📝 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning 101](https://medium.com/@gmferratti/deep-learning-101-6115c2b58606?source=rss-fc8d1157669d------2)
 - [Explorando o Databricks Asset Bundles](https://medium.com/@gmferratti/explorando-o-databricks-asset-bundles-cad6ba7e401f?source=rss-fc8d1157669d------2)
 - [Makefile: o Cheatsheet que Faltava no seu Projeto](https://medium.com/@gmferratti/makefile-o-cheatsheet-que-faltava-no-seu-projeto-4550ffbf41c4?source=rss-fc8d1157669d------2)
 - [Shell para Pythonistas: Episódio I &lpar;arquivos e scripts básicos&rpar;](https://medium.com/@gmferratti/shell-para-pythonistas-epis%C3%B3dio-i-arquivos-e-scripts-b%C3%A1sicos-61dc8860f25e?source=rss-fc8d1157669d------2)
 - [Autenticação via SP no Azure Databricks](https://medium.com/@gmferratti/autentica%C3%A7%C3%A3o-via-sp-no-azure-databricks-a9c138edd6b0?source=rss-fc8d1157669d------2)
-- [Integrando Kedro com o Databricks](https://medium.com/@gmferratti/integrando-kedro-com-o-databricks-f9621b4ebf4a?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
