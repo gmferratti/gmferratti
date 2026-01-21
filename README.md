@@ -67,11 +67,11 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
 ### 📝 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Redes Neurais Convolucionais](https://medium.com/@gmferratti/redes-neurais-convolucionais-69a77e32010b?source=rss-fc8d1157669d------2)
 - [Deploy Batch na AWS: aprendizados práticos para colocar uma Lib de GenAI em Produção](https://medium.com/@gmferratti/deploy-batch-na-aws-aprendizados-pr%C3%A1ticos-para-colocar-uma-lib-de-genai-em-produ%C3%A7%C3%A3o-ebcb36378233?source=rss-fc8d1157669d------2)
 - [Sistemas de Armazenamento na AWS](https://medium.com/@gmferratti/sistemas-de-armazenamento-na-aws-5ebaeb565146?source=rss-fc8d1157669d------2)
 - [Sistemas Distribuídos para Deep Learning](https://medium.com/@gmferratti/sistemas-distribu%C3%ADdos-para-deep-learning-44906257f7e5?source=rss-fc8d1157669d------2)
 - [Conceitos de Infra As Code &lpar;IaC&rpar;](https://medium.com/@gmferratti/conceitos-de-infra-as-code-iac-30a3823df2ef?source=rss-fc8d1157669d------2)
-- [Deep Learning 101](https://medium.com/@gmferratti/deep-learning-101-6115c2b58606?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
