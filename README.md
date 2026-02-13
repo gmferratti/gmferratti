@@ -67,11 +67,11 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
 ### 📝 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A minha Experiência no Datathon do Pós-Tech em ML Engineering &lpar;FIAP&rpar;](https://medium.com/@gmferratti/a-minha-experi%C3%AAncia-no-datathon-do-p%C3%B3s-tech-em-ml-engineering-fiap-52da3fdc9f7e?source=rss-fc8d1157669d------2)
 - [Estratégias para Deploys de Modelos de IA e ML](https://medium.com/@gmferratti/estrat%C3%A9gias-para-deploys-de-modelos-de-ia-e-ml-1fa81484c898?source=rss-fc8d1157669d------2)
 - [Redes Neurais Convolucionais](https://medium.com/@gmferratti/redes-neurais-convolucionais-69a77e32010b?source=rss-fc8d1157669d------2)
 - [Deploy Batch na AWS: aprendizados práticos para colocar uma Lib de GenAI em Produção](https://medium.com/@gmferratti/deploy-batch-na-aws-aprendizados-pr%C3%A1ticos-para-colocar-uma-lib-de-genai-em-produ%C3%A7%C3%A3o-ebcb36378233?source=rss-fc8d1157669d------2)
 - [Sistemas de Armazenamento na AWS](https://medium.com/@gmferratti/sistemas-de-armazenamento-na-aws-5ebaeb565146?source=rss-fc8d1157669d------2)
-- [Sistemas Distribuídos para Deep Learning](https://medium.com/@gmferratti/sistemas-distribu%C3%ADdos-para-deep-learning-44906257f7e5?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
