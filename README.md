@@ -67,11 +67,11 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
 ### 📝 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Antes do Badge: Uma Jornada Rumo às Certificações Profissionais em TI](https://medium.com/@gmferratti/antes-do-badge-uma-jornada-rumo-%C3%A0s-certifica%C3%A7%C3%B5es-profissionais-em-ti-50601a267c9f?source=rss-fc8d1157669d------2)
 - [Dockerizando Aplicações em Dados: Como e Onde?](https://medium.com/@gmferratti/dockerizando-aplica%C3%A7%C3%B5es-em-dados-como-e-onde-c090b47edba9?source=rss-fc8d1157669d------2)
 - [Dockerizando Aplicações em Dados: O Quê e Por Quê?](https://medium.com/@gmferratti/dockerizando-aplica%C3%A7%C3%B5es-em-dados-o-qu%C3%AA-e-por-qu%C3%AA-443f01fbcd63?source=rss-fc8d1157669d------2)
 - [Q&amp;A: Entrevistas para ML Engineer](https://medium.com/@gmferratti/q-a-entrevistas-para-ml-engineer-3a943f9e9241?source=rss-fc8d1157669d------2)
 - [Relato da Minha Experiência no Datathon do Pós-Tech em ML Engineering da FIAP](https://medium.com/@gmferratti/a-minha-experi%C3%AAncia-no-datathon-do-p%C3%B3s-tech-em-ml-engineering-fiap-52da3fdc9f7e?source=rss-fc8d1157669d------2)
-- [Estratégias para Deploys de Modelos de IA e ML](https://medium.com/@gmferratti/estrat%C3%A9gias-para-deploys-de-modelos-de-ia-e-ml-1fa81484c898?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
