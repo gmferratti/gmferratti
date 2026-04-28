@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Gustavo+Ferratti;A+passionate+ML+Engineer;Focusing+on+MLOps+Solutions" 
-         alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Gustavo+Ferratti;MLOps+Engineer+%26+Academic+Researcher;Cloud+Native+%7C+Linux+%7C+Open+Source;Infrastructure+as+Code+%7C+Kubernetes+%7C+Docker" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,62 +8,64 @@
 
 ### 👨‍💻 About Me
 
-I am a Machine Learning Operations Engineer and Academic Researcher from Brazil, focused on building, scaling, and automating the lifecycle of AI models.  
-My goal is to design and implement robust MLOps infrastructures that ensure performance, security, and efficiency for innovative solutions.
+I'm a **Machine Learning (Operations) Engineer** and **Academic Researcher** from Brazil 🇧🇷, building **cloud-native, open source AI/ML solutions**.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gmferratti&label=Profile%20Views&color=0e75b6&style=flat-square" alt="gmferratti" />
-</p>
+My stack is rooted in open technologies: Linux as the foundation, containers orchestrated with **Kubernetes** and **Docker**, infrastructure provisioned with **Terraform**, and ML pipelines that are **reproducible, observable, and community-auditable by design**. I believe the future of AI infrastructure is open and I actively work to build it that way.
 
----
-
-### 🚀 My Skills & Tools
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="PySpark" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell/Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-  </a>
-  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="Datadog" width="40" height="40"/>
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/pandas/00BFFF" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-- 💬 **Expertise:** Feel free to ask me about **Python, PySpark, Azure, and Databricks**.  
-- 🌱 **Currently Learning:** Expanding my knowledge in **Shell, AWS, Docker, and Terraform** for infrastructure automation.
+- 🔬 **Research focus:** Model lifecycle governance, FinOps for ML, and cost-efficient training at scale  
+- 🏗️ **Currently deepening:** IaC with Terraform, container-native ML workflows, and Linux ecosystem tooling  
+- 🎓 **Educator at heart:** I enjoy sharing what I learn; through writing, mentoring, and open documentation  
+- 🤝 **Open to:** Collaborations on open source MLOps projects, research, and community-driven AI initiatives  
+- ✍️ **Writing:** I document my learnings on [Medium](https://medium.com/@gmferratti); from Docker deep-dives to FinOps and tech certifications  
+- 💬 **Ask me about:** Python, PySpark, Kubernetes, Docker, Azure, Databricks, and MLOps best practices
 
 ---
 
-### 📝 My Latest Medium Articles
+### 🚀 Tech Stack
+
+<div align="center">
+
+| **Languages & OS** | **Containers & Orchestration** | **Cloud & IaC** | **Data & ML** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/><br>Python | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/><br>Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36"/><br>Azure | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="36"/><br>PySpark |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/><br>Linux | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36"/><br>Kubernetes | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="36"/><br>AWS | <img src="https://cdn.simpleicons.org/databricks/FF3621" width="36"/><br>Databricks |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36"/><br>Bash | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="36"/><br>Terraform | <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="36"/><br>Datadog | <img src="https://cdn.simpleicons.org/pandas/00BFFF" width="36"/><br>Pandas |
+| | | | <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36"/><br>Scikit-learn |
+
+</div>
+
+---
+
+### 🌐 Open Source & Cloud Native
+
+Increasingly building with and contributing to the open ecosystem:
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+> Open source is a direction, not a destination; I work across proprietary and open stacks and believe the best infrastructure borrows the best of both worlds.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gmferratti&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmferratti&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+---
+
+### 📝 Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
 - [Estratégias de Otimização e FinOps Aplicado ao Treino de Modelos](https://medium.com/@gmferratti/estrat%C3%A9gias-de-otimiza%C3%A7%C3%A3o-e-finops-aplicado-ao-treino-de-modelos-2c1826e472c3?source=rss-fc8d1157669d------2)
@@ -74,24 +75,32 @@ My goal is to design and implement robust MLOps infrastructures that ensure perf
 - [Dockerizando Aplicações em Dados: O Quê e Por Quê?](https://medium.com/@gmferratti/dockerizando-aplica%C3%A7%C3%B5es-em-dados-o-qu%C3%AA-e-por-qu%C3%AA-443f01fbcd63?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
+> ➡️ [Read all articles on Medium →](https://medium.com/@gmferratti)
+
 ---
 
-### 🔗 Contact Me
+### 🔗 Let's Connect
 
-<p align="center">
-  <a href="mailto:gmferratti@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30" height="30"/>
+<div align="center">
+  <a href="mailto:gmferratti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://web.telegram.org/k/#@gmferratti" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/telegram/0088CC" alt="Telegram" width="30" height="30"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gmferratti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gmferratti/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  &nbsp;
+  <a href="https://web.telegram.org/k/#@gmferratti">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://medium.com/@gmferratti">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
 
+<br/>
 
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gmferratti&label=Profile%20Views&color=0e75b6&style=flat-square" alt="gmferratti" />
+</div>
