@@ -68,11 +68,11 @@ Increasingly building with and contributing to the open ecosystem:
 ### 📝 Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering, Padrões de Referência e Sequências de Raciocínio](https://medium.com/@gmferratti/prompt-engineering-padr%C3%B5es-de-refer%C3%AAncia-e-sequ%C3%AAncias-de-racioc%C3%ADnio-2f252d824cbd?source=rss-fc8d1157669d------2)
 - [A Área de Dados no BR: Uma Leitura Crítica a Partir do State of Data 2026](https://medium.com/@gmferratti/a-%C3%A1rea-de-dados-no-br-uma-leitura-cr%C3%ADtica-a-partir-do-state-of-data-2026-47e959bbb28f?source=rss-fc8d1157669d------2)
 - [Estratégias de Otimização e FinOps Aplicado ao Treino de Modelos](https://medium.com/@gmferratti/estrat%C3%A9gias-de-otimiza%C3%A7%C3%A3o-e-finops-aplicado-ao-treino-de-modelos-2c1826e472c3?source=rss-fc8d1157669d------2)
 - [Techwriting e Cartografia de Controvérsias no Onboarding](https://medium.com/@gmferratti/techwriting-e-cartografia-de-controv%C3%A9rsias-no-onboarding-45cccb23be13?source=rss-fc8d1157669d------2)
 - [Antes do Badge: Uma Jornada Rumo às Certificações Profissionais em TI](https://medium.com/@gmferratti/antes-do-badge-uma-jornada-rumo-%C3%A0s-certifica%C3%A7%C3%B5es-profissionais-em-ti-50601a267c9f?source=rss-fc8d1157669d------2)
-- [Dockerizando Aplicações em Dados: Como e Onde?](https://medium.com/@gmferratti/dockerizando-aplica%C3%A7%C3%B5es-em-dados-como-e-onde-c090b47edba9?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
 > ➡️ [Read all articles on Medium →](https://medium.com/@gmferratti)
