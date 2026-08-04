@@ -68,11 +68,11 @@ Increasingly building with and contributing to the open ecosystem:
 ### 📝 Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Terragrunt 101](https://medium.com/forja-ml/terragrunt-101-6368c307f3be?source=rss-fc8d1157669d------2)
 - [Shell para Pythonistas: Episódio II &lpar;data handling&rpar;](https://medium.com/forja-ml/shell-para-pythonistas-epis%C3%B3dio-ii-data-handling-04789b16db97?source=rss-fc8d1157669d------2)
 - [Tipos de Encoding em ML — Parte II: Encoders Ordinais](https://medium.com/forja-ml/tipos-de-encoding-em-ml-parte-ii-encoders-ordinais-f71ba01505ff?source=rss-fc8d1157669d------2)
 - [Tipos de Encoding em ML — Parte I: Encoders Estruturais](https://medium.com/forja-ml/tipos-de-encoding-em-ml-parte-i-encoders-estruturais-1aed2ce2a7c4?source=rss-fc8d1157669d------2)
 - [Filosofando sobre GenAi](https://medium.com/forja-ml/filosofando-sobre-genai-089e23a06699?source=rss-fc8d1157669d------2)
-- [Prompt Engineering, Padrões de Referência e Sequências de Raciocínio](https://medium.com/forja-ml/prompt-engineering-padr%C3%B5es-de-refer%C3%AAncia-e-sequ%C3%AAncias-de-racioc%C3%ADnio-2f252d824cbd?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
 > ➡️ [Read all articles on Medium →](https://medium.com/@gmferratti)
