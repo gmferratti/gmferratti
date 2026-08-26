@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Machine Learning (Operations) Engineer** and **Academic Researcher** from Brazil 🇧🇷, building **cloud-native, open source AI/ML solutions**.
+I'm a **Machine Learning (Operations) Engineer** and **Academic Researcher** from Brazil 🇧🇷, building AI/ML solutions mostly on Cloud.
 
-My stack is rooted in open technologies: Linux as the foundation, containers orchestrated with **Kubernetes** and **Docker**, infrastructure provisioned with **Terraform**, and ML pipelines that are **reproducible, observable, and community-auditable by design**. I believe the future of AI infrastructure is open and I actively work to build it that way.
+My stack is rooted in open technologies: Linux as the foundation, containers orchestrated with **Docker**, infrastructure provisioned with **Terraform**, and ML pipelines that are **reproducible, observable, and community-auditable by design**. I believe the future of AI infrastructure is open and I actively work to build it that way.
 
 - 🔬 **Research focus:** Model lifecycle governance, FinOps for ML, and cost-efficient training at scale  
 - 🏗️ **Currently deepening:** IaC with Terraform, container-native ML workflows, and Linux ecosystem tooling  
