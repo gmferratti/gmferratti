@@ -90,11 +90,11 @@ Where I can actually help, stage by stage:
 ### 📝 Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Serving Endpoints no Databricks](https://medium.com/forja-ml/serving-endpoints-no-databricks-69a943e4bb17?source=rss-fc8d1157669d------2)
 - [Microbatch, NRT ou RTM no DB](https://medium.com/forja-ml/microbatch-nrt-ou-rtm-no-db-f5314d2f82d0?source=rss-fc8d1157669d------2)
 - [Terragrunt 101](https://medium.com/forja-ml/terragrunt-101-6368c307f3be?source=rss-fc8d1157669d------2)
 - [Shell para Pythonistas: Episódio II &lpar;data handling&rpar;](https://medium.com/forja-ml/shell-para-pythonistas-epis%C3%B3dio-ii-data-handling-04789b16db97?source=rss-fc8d1157669d------2)
 - [Tipos de Encoding em ML — Parte II: Encoders Ordinais](https://medium.com/forja-ml/tipos-de-encoding-em-ml-parte-ii-encoders-ordinais-f71ba01505ff?source=rss-fc8d1157669d------2)
-- [Tipos de Encoding em ML — Parte I: Encoders Estruturais](https://medium.com/forja-ml/tipos-de-encoding-em-ml-parte-i-encoders-estruturais-1aed2ce2a7c4?source=rss-fc8d1157669d------2)
 <!-- BLOG-POST-LIST:END -->
 
 > ➡️ [Read all articles on Medium →](https://medium.com/@gmferratti)
